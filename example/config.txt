@@ -1,0 +1,2 @@
+Prefix plugins/Robbins/example/
+Plugin Robbins inputfile table.qza outputfile alpha_diversity.qza
